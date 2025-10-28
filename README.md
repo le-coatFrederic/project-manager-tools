@@ -66,3 +66,7 @@ Then I will detail all the modules :
 - **Manage milestones** : 
 
 ![dcu_milestone](/docs/project_init/DCU_Milestonet.jpg)
+
+- **Manage tasks** : 
+
+![dcu_milestone](/docs/project_init/DCU_Task.jpg)
